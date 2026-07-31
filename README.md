@@ -15,3 +15,6 @@ The original MDHDARP benchmark instances proposed by Malheiros et al. (2021) are
 ## Source of Results
 
 The solutions provided in this repository were obtained in the paper titled: **“A Variable Neighborhood Search Algorithm for a Very Large-Scale Practical Dial-a-Ride Problem”** by **Mohammad Karimi, Guy Desaulniers, and Michel Gendreau**, prepared for the journal **Computers & Operations Research**.
+
+## Solution file format
+Each solution file reports the objective value and, for every vehicle, the sequence of nodes in its route together with the corresponding arrival time at each node.
